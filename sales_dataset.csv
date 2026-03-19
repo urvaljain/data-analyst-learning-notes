@@ -1,0 +1,11 @@
+order_id,customer,city,product,amount
+1001,Alice,New York,Laptop,1200
+1002,Bob,Chicago,Smartphone,800
+1003,Charlie,Los Angeles,Tablet,400
+1004,Diana,Houston,Laptop,1300
+1005,Ethan,Phoenix,Smartphone,750
+1006,Fiona,Philadelphia,Headphones,150
+1007,George,San Antonio,Tablet,500
+1008,Hannah,San Diego,Laptop,1100
+1009,Ian,Dallas,Smartphone,900
+1010,Julia,San Jose,Headphones,200
